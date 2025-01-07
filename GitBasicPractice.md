@@ -2,11 +2,11 @@
 
 ## 목차
 
-- Git이란?
-- Git 기본 명령어
-- 브랜치와 병합
-- GitHub 사용
-- 추가 리소스
+- [Git이란?](https://github.com/hyunpjh/MiniHomepage/blob/main/GitBasicPractice.md#git이란
+- [Git 기본 명령어](https://github.com/hyunpjh/MiniHomepage/blob/main/GitBasicPractice.md#git기본명령어
+- [브랜치와 병합]
+- [GitHub 사용]
+- [추가 리소스]
 
 ___
 
