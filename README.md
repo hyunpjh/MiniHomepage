@@ -4,8 +4,13 @@
 - style.md 추가
 
 ## 구매 페이지 만들기
+- perchase.md 추가
+
 ## 서비스 소개 페이지 추가
-- about.md 추가가
+- about.md 추가
 
 ## 네비게이션 추가
-## 장바구니 추가가
+- navigation.md 추가
+
+## 장바구니 추가
+- cart.md 추가
